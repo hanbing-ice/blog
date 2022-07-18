@@ -38,7 +38,7 @@ module.exports = {
             }
         },
         subSidebar:'auto',
-        base:'/blog/'
-    }
+    },
+    base:'/blog/'
   }
 
